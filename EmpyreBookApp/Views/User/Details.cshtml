@@ -1,0 +1,160 @@
+﻿@model EmpyreBookApp.Models.User
+
+
+
+    @{
+        ViewBag.Title = "Details";
+    }
+
+<style type='text/css'>
+            html, body {
+                height: 100%;
+                margin: 0;
+            }
+
+            #myinfo {
+                background-color: @Html.Action("GetSecond", "User");
+
+                box-shadow: 5px 5px 5px #651212;
+                text-shadow: 3px 3px 3px #651212;
+                width: 50%;
+                height: 10%;
+                border-radius: 10px;
+            }
+
+            #mybooks {
+                background-color: @Html.Action("GetSecond", "User");
+
+                box-shadow: 5px 5px 5px #651212;
+                text-shadow: 3px 3px 3px #651212;
+                width: 40%;
+                height: 10%;
+                border-radius: 10px;
+            }
+
+            #content {
+                width: 100%;
+                height: 100%;
+            }
+
+            #container {
+                height: 100%;
+                width: 60%;
+                border-radius: 10px;
+                box-shadow: 5px 5px 5px #651212;
+                background-color: @Html.Action("GetSecond", "User");
+            }
+
+            #space {
+                height: 15px;
+            }
+
+            #entity{
+                float:left;
+                margin-left:15px;
+                font-weight:bold;
+            }
+            #entity2{
+                margin-left: 120px;
+            }
+
+</style>
+
+    <br />
+    <table>
+        <tr>
+            <td>
+                <p style="text-align:left;font-family:Broadway;font-size:20px">
+                    Welcome to
+                    @Html.Raw(ViewBag.CurrentCommunity)
+                </p>
+
+            </td>
+            <td style="text-align:right">
+                <img border="0" src="@ViewBag.picUrl" width="150" height="100">
+            </td>
+
+
+        </tr>
+
+
+    </table>
+
+
+   <div id="entity">
+       <form method="link" action="../../Book/Browse/@Model.UserID">
+           <input type="submit" value="Browse Books" style="box-shadow: 5px 5px 5px #651212;" />
+       </form>
+   </div>
+    <div style="margin-left:140px">
+        <form method="link" action="../Add/@Model.UserID">
+            <input type="submit" value="Post Book" style="box-shadow: 5px 5px 5px #651212;" />
+        </form>
+    </div>
+    
+    <hr />
+
+    <div id="myinfo">
+        <h1 style="color:white; text-align:center; padding-top:15px; padding-bottom:15px;">My Information</h1>
+    </div>
+        <div id="space"></div>
+    <div id="container">
+        <div id="space"></div>
+        
+        <div id="entity">
+            @Html.DisplayNameFor(model => model.UserName):
+        </div>
+        <div id="entity2">
+            @Html.DisplayFor(model => model.UserName)
+        </div>
+        <div id="entity">
+            @Html.DisplayNameFor(model => model.FirstName):
+        </div>
+        <div id="entity2">
+            @Html.DisplayFor(model => model.FirstName)
+        </div>
+        <div id="entity">
+            @Html.DisplayNameFor(model => model.LastName):
+        </div>
+        <div id="entity2">
+            @Html.DisplayFor(model => model.LastName)
+        </div>
+
+        <div id="entity">
+            @Html.DisplayNameFor(model => model.Email)
+        </div>
+        <div id="entity2">
+            @Html.DisplayFor(model => model.Email)
+        </div>
+        <div id="entity">
+            @Html.DisplayNameFor(model => model.Contact):
+        </div>  
+        <div id="entity2">
+            @Html.DisplayFor(model => model.Contact)
+        </div>
+        <div id="space"></div>
+        <div style="margin-left:15px">
+            <form method="link" action="../Edit/@Model.UserID">
+                <input type="submit" value="Edit Information" style="box-shadow: 5px 5px 5px #651212;" />
+            </form>
+        </div>
+        <div id="space"></div>
+    </div>
+
+        <hr />
+        <div id="mybooks">
+            <h1 style="color:white; text-align:center; padding-top:15px; padding-bottom:15px;">My Books</h1>
+        </div>
+        <div id="space"></div>
+
+        <div id="container" style="width:100%">
+            <div id="space"></div>
+            @foreach (var item in Model.Books)
+            {
+                <div style="margin-left: 15px; font-weight: bold;">
+                    @item.BI.Title - @item.Price - @Html.ActionLink("Edit", "Edit", "Book", new { id = @item.BookID }, null)
+                </div>
+            }
+            <div id="space"></div>
+            <div id="space"></div>
+        </div>

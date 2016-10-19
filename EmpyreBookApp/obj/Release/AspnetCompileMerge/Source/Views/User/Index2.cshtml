@@ -1,0 +1,74 @@
+﻿@model PagedList.IPagedList<EmpyreBookApp.Models.User>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Index2";
+}
+
+<h2>Users</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+@using (Html.BeginForm("Index2", "User", FormMethod.Get))
+{
+    <p>
+        @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        @Html.Hidden("CommunityType",ViewBag.CurrentCommunity as string)
+        <input type="submit" value="Search" />
+    </p>
+}
+
+<table class="table">
+    <tr>
+
+        <th>
+            @Html.ActionLink("UserName", "Index2", new { sortOrder = ViewBag.NameSortParm, currentFilter = ViewBag.CurrentFilter,
+                                                         communityType = ViewBag.CurrentCommunity
+       })
+        </th>
+        <th>
+            Email
+        </th>
+        <th>
+            @Html.ActionLink("School", "Index2", new { sortOrder = ViewBag.SchoolSortParm, currentFilter = ViewBag.CurrentFilter, communityType = ViewBag.CurrentCommunity })
+        </th>
+        <th>
+            Contact
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.School)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Contact)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.UserID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.UserID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.UserID }) |
+                @Html.ActionLink("Add", "Add", new { id = item.UserID })
+            </td>
+        </tr>
+    }
+
+</table>
+
+<br />
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index2",
+        new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter, communityType = ViewBag.CurrentCommunity }))

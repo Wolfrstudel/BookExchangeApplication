@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "ISBN Search";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+@using (Html.BeginForm())
+{
+    <p>
+        <h6>Enter ISBN10 or ISBN13 code:</h6>
+        @Html.TextBox("SearchString")
+        <input type="submit" value="Search" />
+    </p>
+}

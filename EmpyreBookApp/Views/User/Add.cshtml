@@ -1,0 +1,127 @@
+﻿@model EmpyreBookApp.Models.Book
+
+@{
+    ViewBag.Title = "Add a Book";
+    ViewBag.ISBNexcept = false;
+}
+
+<h2>Add a Book</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Book</h4>
+        <hr />
+
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Description, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextAreaFor(model => model.Description, new { @style = "resize:none;", @cols = "80", @rows = "4" })
+                @Html.ValidationMessageFor(model => model.Description)
+            </div>
+        </div>
+
+        @{
+    if (ViewBag.ISBNexcept)
+    {
+        @:Requires a Valid ISBN.
+            }
+        }
+        <div class="form-group">
+            @Html.LabelFor(model => model.ISBN, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ISBN)
+                @Html.ValidationMessageFor(model => model.ISBN)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Genre, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Genre)
+                @Html.ValidationMessageFor(model => model.Genre)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Condition, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Condition)
+                @Html.ValidationMessageFor(model => model.Condition)
+            </div>
+        </div>
+
+<!--        <div class="form-group">
+            Html.Label("Choose", new { class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <label for="price">Price</label><input type="checkbox" name="price" id="price" onclick="javascript:uncheckTrade(this) " />
+                <label for="price">Trade</label><input type="checkbox" name="trade" id="trade" onclick="javascript:uncheckPrice(this) " />
+            </div>
+        </div>
+-->
+        <div class="form-group">
+            @Html.HiddenFor(model => model.PostDate, new { @Value = System.DateTime.Now })
+        </div>
+
+        <div class="form-group">
+            <label id="inputlabel" class="control-label col-md-2">Input Price</label>
+            <div class="col-md-10">
+
+                @Html.EditorFor(model => model.Price)
+<!--            Html.TextBoxFor(model => model.Price, new { id = "priceinput", style = "display:none" })
+               Scripts.Render("~/Scripts/jquery-1.10.2.js")
+                <script type="text/javascript">
+
+                    var price = $("input[name='price']"),
+                        trade = $("input[name='trade']"),
+                        priceinput = $("input[id='priceinput']")
+                    inputlabel = $("label[id= 'inputlabel']");
+                    price.click(function () {
+                        if (price.is(":checked")) {
+                            trade.attr("checked", !price.is(":checked"));
+                            priceinput.attr("style", "display:visible");
+                            priceinput.attr("value", "");
+                            inputlabel.attr("style", "display:visible");
+                        }
+                        if (!price.is(":checked")) {
+                            priceinput.attr("style", "display:none");
+                            inputlabel.attr("style", "display:none");
+                        }
+                    });
+                    trade.click(function () {
+                        if (trade.is(":checked")) {
+                            price.attr("checked", !trade.is(":checked"));
+                            priceinput.attr("value", "Trade");
+                            priceinput.attr("style", "display:none");
+                            inputlabel.attr("style", "display:none");
+                        }
+                        if (!trade.is(":checked")) {
+                            priceinput.attr("value", "");
+                        }
+                    });
+
+                </script>-->
+                @Html.ValidationMessageFor(model => model.Price)
+            </div>
+
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

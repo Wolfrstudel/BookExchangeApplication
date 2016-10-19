@@ -1,0 +1,147 @@
+﻿@model EmpyreBookApp.Models.User
+
+@{
+    ViewBag.Title = "Registration";
+}
+
+<style type='text/css'>
+            html, body {
+                height: 100%;
+                margin: 0;
+            }
+
+            #title {
+                background-color: @Html.Action("GetSecond", "User");
+
+                box-shadow: 5px 5px 5px #651212;
+                text-shadow: 3px 3px 3px black;
+                margin: 0 auto;
+                width: 60%;
+                height: 10%;
+                border-radius: 10px;
+                vertical-align: middle;
+            }
+
+            #holder {
+                width: 200px;
+                height: 100%;
+                float: left;
+                border-radius: 10px;
+                box-shadow: 5px 5px 5px #651212;
+                background-color: @Html.Action("GetSecond", "User");
+            }
+
+            #name {
+                width: 30%;
+                float:left;
+                border-radius: 10px;
+                box-shadow: 5px 5px 5px #651212;
+                background-color: @Html.Action("GetSecond", "User");
+            }
+            #contact {
+                float:left;
+                height: 100%;
+                margin-left:3%;
+                width: 30%;
+                border-radius: 10px;
+                box-shadow: 5px 5px 5px #651212;
+                background-color: @Html.Action("GetSecond", "User");
+            }
+            #user {
+                float:left;
+                width: 30%;
+                margin-left:3%;
+                border-radius: 10px;
+                box-shadow: 5px 5px 5px #651212;
+                background-color: @Html.Action("GetSecond", "User");
+            }
+            #entity{
+                margin-left:15px;
+            }
+            #space {
+                height: 15px;
+            }
+
+            
+      
+</style>
+<div id="title">
+    <h1 style="color:black;text-align:center; padding-top:15px; padding-bottom:15px;">Register:</h1>
+</div>
+<div id="space"></div>
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(true, "Create user failed, check your fields.")
+    
+
+    <fieldset>
+        <div id="space"></div>
+        <div id="name">
+            <div id="space"></div>
+            <div id="entity" class="editor-label">
+                @Html.LabelFor(u => u.FirstName)
+            </div>
+            <div id="entity" class="editor-field">
+                @Html.TextBoxFor(u => u.FirstName)
+                @Html.ValidationMessageFor(u => u.FirstName)
+            </div>
+
+            <div id="entity" class="editor-label">
+                @Html.LabelFor(u => u.LastName)
+            </div>
+            <div id ="entity" class="editor-field">
+                @Html.TextBoxFor(u => u.LastName)
+                @Html.ValidationMessageFor(u => u.LastName)
+            </div>
+            <div id="space"></div>
+        </div>
+        <div id="user">
+            <div id="space"></div>
+            <div id="entity" class="editor-label">
+                @Html.LabelFor(u => u.UserName)
+            </div>
+            <div id="entity" class="editor-field">
+                @Html.TextBoxFor(u => u.UserName)
+                @Html.ValidationMessageFor(u => u.UserName)
+            </div>
+            <div id="entity"class="editor-label">
+                @Html.LabelFor(u => u.Password)
+            </div>
+
+            <div id="entity" class="editor-field">
+                @Html.PasswordFor(u => u.Password)
+                @Html.ValidationMessageFor(u => u.Password)
+            </div>
+
+            <div id="entity"class="editor-label">
+                @Html.LabelFor(u => u.ComunityID)
+            </div>
+            <div id="entity" class="editor-field">
+                @Html.DropDownList("CommunityID", string.Empty)
+                @Html.ValidationMessageFor(u => u.ComunityID)
+            </div>
+            <div id="space"></div>
+        </div>
+        <div id="contact">
+            <div id="space"></div>
+            <div id="entity"class="editor-label">
+                @Html.LabelFor(u => u.Email)
+            </div>
+            <div id="entity"class="editor-field">
+                @Html.TextBoxFor(u => u.Email)
+                @Html.ValidationMessageFor(u => u.Email)
+            </div>
+            <div id="entity"class="editor-label">
+                @Html.LabelFor(u => u.Contact)
+            </div>
+            <div id="entity"class="editor-field">
+                @Html.TextBoxFor(u => u.Contact)
+                @Html.ValidationMessageFor(u => u.Contact)
+                <input type="submit" value="Create" />
+            </div>
+            <div id="space"></div>
+            
+        </div>
+        </fieldset>
+     }  
+    <div style="height:200px;width:500px"></div>

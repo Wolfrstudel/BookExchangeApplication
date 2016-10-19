@@ -1,0 +1,66 @@
+﻿@model EmpyreBookApp.Models.Community
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Community</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CShortName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CShortName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CUrl)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CUrl)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BackgroundColor)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BackgroundColor)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SecondaryBackgroundColor)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SecondaryBackgroundColor)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Picture)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Picture)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.CommunityID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

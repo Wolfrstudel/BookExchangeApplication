@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="empyrebookapp" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\CS425\\EmpyreBookApp-RWZM\\EmpyreBookApp-Browse\\EmpyreBookApp\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\CS425\\EmpyreBookApp-RWZM\\EmpyreBookApp-Browse\\EmpyreBookApp\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="RequestContext-Web.config Connection String" description="" value="Data Source=(LocalDb)\v11.0;Initial Catalog=EmpyreBookApp3;Integrated Security=SSPI;" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\CS425\\EmpyreBookApp-RWZM\\EmpyreBookApp-Browse\\EmpyreBookApp\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='RequestContext']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,50 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Empyre Book Exchange</h1>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <h2>Welcome to Empyre Book Exchange</h2>
+        <p>
+            Empyre Book Exchange is a application that
+            help users trading used text books
+        </p>
+    </div>
+    <div>
+        <table>
+            <tr>
+                <td><a href="/Book/Index2?communityType=Western Oregon University"><img style="height:150px;width:200px" src="/Images/wou.png" /></a></td>
+                <td><a href="/Book/Index2?communityType=Oregon State University"><img style="height:150px;width:200px"  src="/Images/osu.png" /></a></td>
+            </tr>
+        </table>
+       
+
+    </div>
+
+</div>
+
+<br />
+<br />
+<div id="community_form">
+    @using (Html.BeginForm("Index2", "User"))
+    {
+
+        <fieldset>
+
+            <b>Choose a Community:</b>
+
+            @Html.DropDownList("communityType", new SelectList(new[] { "Western Oregon University", "Oregon State University" }))
+
+            <p>
+
+                <input type="submit" value="Submit" />
+
+            </p>
+
+        </fieldset>
+
+    }
+</div>

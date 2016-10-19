@@ -1,0 +1,77 @@
+﻿@model IEnumerable<EmpyreBookApp.Models.Book>
+@{
+    ViewBag.Title = "SpecifiedBook";
+}
+
+<style type='text/css'>
+    #title {
+        background-color:  @Html.Action("GetSecond", "User");
+        box-shadow: 5px 5px 5px #651212;
+        text-shadow: 3px 3px 3px #651212;
+        margin: 0 auto;
+        width: 90%;
+        height: 10%;
+        border-radius: 10px;
+        vertical-align: middle;
+    }
+
+    #list {
+        width: 90%;
+        height: 100%;
+        border-radius: 10px;
+        box-shadow: 5px 5px 5px #651212;
+        background-color: @Html.Action("GetSecond", "User");
+        margin: 0 auto;
+    }
+
+    #space {
+        height: 10px;
+    }
+
+    #book {
+        color: white;
+        margin-left: 2.5%;
+    }
+    #container {
+        height: 95%;
+        background-color: #ffffff;
+        margin-left: 2.5%;
+        margin-right: 2.5%;
+    }
+</style>
+
+<div id="title">
+    <h1 style="color:white; text-align:center; padding-top:15px; padding-bottom:15px">@ViewBag.SpecifiedBook</h1>
+</div>
+
+<div id="space"></div>
+
+<div id="list">
+    <div id="space"></div>
+    @foreach (var item in Model)
+{
+    <div id='container'>
+        <table class="table">
+            <tr>
+                <td>
+                    <img src="@Url.Content(item.BI.CoverLink)" alt="Image" style="background-color: #000; height:200px; width: 200px;" />
+                </td>
+                <td style="width:80%;">
+                    <div>
+                        @Html.ActionLink(item.BI.Title, "Display", new { id = item.BookID })
+                    </div>
+                    <hr>
+                    <div>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </div>
+                </td>
+
+            </tr>
+        </table>
+
+    </div>
+        
+    <div id="space"></div>
+
+}
+</div>

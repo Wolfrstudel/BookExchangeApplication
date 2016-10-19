@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Empyre Book Exchange</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body style="background-image: url('@Url.Content("~/Images/light.jpg")'); padding-left: 5%; padding-right: 5%; width: 100%; height: 100%">
+    <div class="navbar navbar-inverse navbar-fixed-top" style="background-color:black">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="@Url.Action("Index", "Home")">
+                    <img src="@Url.Content("~/Images/Empyre logo.png")" alt="Image" width=" 200" height="50" />
+                </a>
+            </div>
+            <div class="navbar-collapse collapse" style="position:absolute;right:20px;">
+                <ul class="nav navbar-nav">
+                    
+                    @if (@Html.Action("GetUserid", "User").ToString() != "")
+                    {
+
+                        <li style="color:white;font-size:18px;vertical-align:middle"><a >Hello,@Html.Action("GetHello", "User") </a></li>
+
+                    }
+
+                    
+
+                    <li>@Html.ActionLink("Register", "Registration", "User")</li>
+                
+                    @if (@Html.Action("GetUserid", "User").ToString()!="")
+                    {
+                        
+                        <li>@Html.ActionLink("Log Out", "LogOut", "User")</li>
+
+                    }
+                    else
+                    {
+
+                        <li>@Html.ActionLink("Log In", "Login", "User")</li>
+                    } 
+                  
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content" style="background-color: @Html.Action("GetBackground", "User").ToString()" >
+        @RenderBody()
+        <hr />
+        <footer style="background-color:black;">
+            <p>&copy; @DateTime.Now.Year - Empyre Book Exchange</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

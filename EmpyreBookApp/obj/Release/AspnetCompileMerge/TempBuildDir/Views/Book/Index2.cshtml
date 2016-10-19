@@ -1,0 +1,94 @@
+﻿@model IEnumerable<EmpyreBookApp.Models.Book>
+
+@{
+    ViewBag.Title = "BookIndex2";
+}
+
+<h2>Book</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+@using (Html.BeginForm("Index2", "Book", FormMethod.Get))
+{
+    <p>
+        <h6>by Username, Price, ISBN or Condition:</h6>
+        @Html.TextBox("SearchString")
+        @Html.Hidden("communityType",ViewBag.CurrentCommunity as string)
+        <input type="submit" value="Search" />
+    </p>
+}
+
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.User.UserName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SoldTo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Bi.Title)
+        </th>
+        <th>
+            @Html.ActionLink("ISBN", "Index2", new { sortOrder = ViewBag.ISBNSortParm, communityType = ViewBag.CurrentCommunity })
+        </th>
+        <th>
+            @Html.ActionLink("Genre", "Index2", new { sortOrder = ViewBag.GenreSortParm, communityType = ViewBag.CurrentCommunity })
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Condition)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Photo)
+        </th>
+        <th>
+            @Html.ActionLink("Price", "Index2", new { sortOrder = ViewBag.PriceSortParm, communityType = ViewBag.CurrentCommunity })
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ContactInfo)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.User.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoldTo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Bi.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ISBN)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.genre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Condition)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Photo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ContactInfo)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.BookID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.BookID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.BookID }) |
+                @Html.ActionLink("Trade", "Trade", new { id = item.BookID })
+            </td>
+        </tr>
+    }
+
+</table>

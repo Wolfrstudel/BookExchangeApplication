@@ -1,0 +1,46 @@
+﻿@model EmpyreBookApp.Models.Book
+@{
+    ViewBag.Title = "Display";
+}
+<div style="height:60px"></div>
+
+
+<font size="6">
+    @Html.DisplayFor(model => model.BI.Title) - @Html.DisplayFor(model => model.Price)
+</font>
+
+<div style="height:40px"></div>
+
+<div>
+    <h4>Book Condition: @Html.DisplayFor(model => model.Condition) </h4>
+</div>
+
+<div style="height:20px"></div>
+
+<div id="container" style="width:500px">
+    <font size="4">
+        @Html.DisplayFor(model => model.Description)
+    </font>
+
+</div>
+
+<div style="height:20px"></div>
+
+<div style="border: 1px solid #000000; display: inline-block">
+    <dl>
+        <dt>Contact: @Html.DisplayFor(model => model.User.Contact) &nbsp;</dt>
+        <dt>Email: @Html.DisplayFor(model => model.User.Email) &nbsp;   </dt>
+    </dl>
+</div>
+<div style="height:30px"></div>
+<div>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

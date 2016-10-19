@@ -1,0 +1,1012 @@
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\EmpyreBookApp.dll.config
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\EmpyreBookApp.dll
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\EmpyreBookApp.pdb
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\Antlr3.Runtime.dll
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\Newtonsoft.Json.dll
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Helpers.dll
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Mvc.dll
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Optimization.dll
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Razor.dll
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\System.Web.WebPages.Deployment.dll
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\System.Web.WebPages.dll
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\System.Web.WebPages.Razor.dll
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\WebGrease.dll
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Helpers.xml
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Mvc.xml
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Optimization.xml
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Razor.xml
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\System.Web.WebPages.xml
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\System.Web.WebPages.Deployment.xml
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\System.Web.WebPages.Razor.xml
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\Newtonsoft.Json.xml
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\Antlr3.Runtime.pdb
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.csprojResolveAssemblyReference.cache
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.dll
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.pdb
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\EntityFramework.dll
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\EntityFramework.SqlServer.dll
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\EntityFramework.xml
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\EntityFramework.SqlServer.xml
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\PagedList.dll
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\PagedList.Mvc.dll
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\PagedList.xml
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\bin\PagedList.Mvc.xml
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate.resources
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.csproj.GenerateResource.Cache
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.exit.resources
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel.resources
+c:\users\wen\documents\visual studio 2013\Projects\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel1.resources
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\EmpyreBookApp.dll.config
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\EmpyreBookApp.dll
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\EmpyreBookApp.pdb
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\Antlr3.Runtime.dll
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\EntityFramework.dll
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\Newtonsoft.Json.dll
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\PagedList.dll
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\PagedList.Mvc.dll
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Helpers.dll
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Mvc.dll
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Optimization.dll
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Razor.dll
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.WebPages.dll
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\WebGrease.dll
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\EntityFramework.xml
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\Newtonsoft.Json.xml
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\PagedList.xml
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\PagedList.Mvc.xml
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Helpers.xml
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Mvc.xml
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Optimization.xml
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Razor.xml
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.WebPages.xml
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\Antlr3.Runtime.pdb
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.csprojResolveAssemblyReference.cache
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate.resources
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.exit.resources
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel.resources
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel1.resources
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.csproj.GenerateResource.Cache
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.dll
+C:\Users\Zach\Documents\School\Spring 2014\CS 425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.pdb
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\EmpyreBookApp.dll.config
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\EmpyreBookApp.dll
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\EmpyreBookApp.pdb
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\Antlr3.Runtime.dll
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\EntityFramework.dll
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\EntityFramework.SqlServer.dll
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\Microsoft.Web.Infrastructure.dll
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\Newtonsoft.Json.dll
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\PagedList.dll
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\PagedList.Mvc.dll
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Helpers.dll
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Mvc.dll
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Optimization.dll
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Razor.dll
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.WebPages.Deployment.dll
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.WebPages.dll
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.WebPages.Razor.dll
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\WebGrease.dll
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\EntityFramework.xml
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\EntityFramework.SqlServer.xml
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\Newtonsoft.Json.xml
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\PagedList.xml
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\PagedList.Mvc.xml
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Helpers.xml
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Mvc.xml
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Optimization.xml
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Razor.xml
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.WebPages.xml
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.WebPages.Deployment.xml
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\System.Web.WebPages.Razor.xml
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\bin\Antlr3.Runtime.pdb
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.csprojResolveAssemblyReference.cache
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate.resources
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.exit.resources
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel.resources
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel1.resources
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.csproj.GenerateResource.Cache
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.dll
+G:\CS425\Empyre_Working\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.pdb
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\EmpyreBookApp.dll.config
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\EmpyreBookApp.dll
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\EmpyreBookApp.pdb
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\Antlr3.Runtime.dll
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\EntityFramework.dll
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\EntityFramework.SqlServer.dll
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\Newtonsoft.Json.dll
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\PagedList.dll
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\PagedList.Mvc.dll
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Helpers.dll
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Mvc.dll
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Optimization.dll
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Razor.dll
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\System.Web.WebPages.dll
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\WebGrease.dll
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\EntityFramework.xml
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\EntityFramework.SqlServer.xml
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\Newtonsoft.Json.xml
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\PagedList.xml
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\PagedList.Mvc.xml
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Helpers.xml
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Mvc.xml
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Optimization.xml
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\System.Web.Razor.xml
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\System.Web.WebPages.xml
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\bin\Antlr3.Runtime.pdb
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.csprojResolveAssemblyReference.cache
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate.resources
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.exit.resources
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel.resources
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel1.resources
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.csproj.GenerateResource.Cache
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.dll
+C:\Users\wen\Desktop\EmpyreBookApp\EmpyreBookApp\obj\Debug\EmpyreBookApp.pdb
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\EmpyreBookApp.dll.config
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\EmpyreBookApp.dll
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\EmpyreBookApp.pdb
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\Antlr3.Runtime.dll
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\EntityFramework.dll
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\EntityFramework.SqlServer.dll
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\Microsoft.Web.Infrastructure.dll
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\Newtonsoft.Json.dll
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\PagedList.dll
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\PagedList.Mvc.dll
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.Helpers.dll
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.Mvc.dll
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.Optimization.dll
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.Razor.dll
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.WebPages.Deployment.dll
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.WebPages.dll
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.WebPages.Razor.dll
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\WebGrease.dll
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\EntityFramework.xml
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\EntityFramework.SqlServer.xml
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\Newtonsoft.Json.xml
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\PagedList.xml
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\PagedList.Mvc.xml
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.Helpers.xml
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.Mvc.xml
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.Optimization.xml
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.Razor.xml
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.WebPages.xml
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.WebPages.Deployment.xml
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.WebPages.Razor.xml
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\bin\Antlr3.Runtime.pdb
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\obj\Debug\EmpyreBookApp.csprojResolveAssemblyReference.cache
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate.resources
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.exit.resources
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel.resources
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel1.resources
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\obj\Debug\EmpyreBookApp.csproj.GenerateResource.Cache
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\obj\Debug\EmpyreBookApp.dll
+D:\CS425\EmpyreBookApp-zack\EmpyreBookApp\obj\Debug\EmpyreBookApp.pdb
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\EmpyreBookApp.dll.config
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\EmpyreBookApp.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\EmpyreBookApp.pdb
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\Antlr3.Runtime.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\EntityFramework.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\Newtonsoft.Json.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\PagedList.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\PagedList.Mvc.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.Helpers.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.Mvc.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.Optimization.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.Razor.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.WebPages.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\WebGrease.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\EntityFramework.xml
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\Newtonsoft.Json.xml
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\PagedList.xml
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\PagedList.Mvc.xml
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.Helpers.xml
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.Mvc.xml
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.Optimization.xml
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.Razor.xml
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.WebPages.xml
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\bin\Antlr3.Runtime.pdb
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\obj\Debug\EmpyreBookApp.csprojResolveAssemblyReference.cache
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate.resources
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.exit.resources
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel.resources
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel1.resources
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\obj\Debug\EmpyreBookApp.csproj.GenerateResource.Cache
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\obj\Debug\EmpyreBookApp.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\obj\Debug\EmpyreBookApp.pdb
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_.resources
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zack\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_2.resources
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.csprojResolveAssemblyReference.cache
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate.resources
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.exit.resources
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel.resources
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel1.resources
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_.resources
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_2.resources
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.csproj.GenerateResource.Cache
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\EmpyreBookApp.dll.config
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\EmpyreBookApp.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\EmpyreBookApp.pdb
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\Antlr3.Runtime.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\EntityFramework.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\Newtonsoft.Json.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\PagedList.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\PagedList.Mvc.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\System.Web.Helpers.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\System.Web.Mvc.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\System.Web.Optimization.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\System.Web.Razor.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\System.Web.WebPages.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\WebGrease.dll
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\EntityFramework.xml
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\Newtonsoft.Json.xml
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\PagedList.xml
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\PagedList.Mvc.xml
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\System.Web.Helpers.xml
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\System.Web.Mvc.xml
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\System.Web.Optimization.xml
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\System.Web.Razor.xml
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\System.Web.WebPages.xml
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\bin\Antlr3.Runtime.pdb
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.pdb
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417.resources
+C:\Users\Zach\Desktop\Archive\EmpyreBookApp-zach_4-11-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417_2.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.csprojResolveAssemblyReference.cache
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.exit.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel1.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_2.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417_2.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.csproj.GenerateResource.Cache
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\EmpyreBookApp.dll.config
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\EmpyreBookApp.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\EmpyreBookApp.pdb
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\Antlr3.Runtime.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\EntityFramework.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\Newtonsoft.Json.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\PagedList.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\PagedList.Mvc.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.Helpers.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.Mvc.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.Optimization.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.Razor.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.WebPages.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\WebGrease.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\EntityFramework.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\Newtonsoft.Json.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\PagedList.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\PagedList.Mvc.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.Helpers.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.Mvc.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.Optimization.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.Razor.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.WebPages.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\Antlr3.Runtime.pdb
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.pdb
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.description.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.addmigrationtitle.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.test2.resources
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\EmpyreBookApp.dll.config
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\EmpyreBookApp.dll
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\EmpyreBookApp.pdb
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\Antlr3.Runtime.dll
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\EntityFramework.dll
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\EntityFramework.SqlServer.dll
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\Microsoft.Web.Infrastructure.dll
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\Newtonsoft.Json.dll
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\PagedList.dll
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\PagedList.Mvc.dll
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.Helpers.dll
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.Mvc.dll
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.Optimization.dll
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.Razor.dll
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.WebPages.Deployment.dll
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.WebPages.dll
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.WebPages.Razor.dll
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\WebGrease.dll
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\EntityFramework.xml
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\EntityFramework.SqlServer.xml
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\Newtonsoft.Json.xml
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\PagedList.xml
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\PagedList.Mvc.xml
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.Helpers.xml
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.Mvc.xml
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.Optimization.xml
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.Razor.xml
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.WebPages.xml
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.WebPages.Deployment.xml
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\System.Web.WebPages.Razor.xml
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\bin\Antlr3.Runtime.pdb
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.csprojResolveAssemblyReference.cache
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate.resources
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.exit.resources
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel.resources
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel1.resources
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_.resources
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_2.resources
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417.resources
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417_2.resources
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.description.resources
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.addmigrationtitle.resources
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.test2.resources
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.csproj.GenerateResource.Cache
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.dll
+D:\CS425\EmpyreBookApp-zach_4-18-2014 (2)\EmpyreBookApp-zach_4-18-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.pdb
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.csprojResolveAssemblyReference.cache
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate.resources
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.exit.resources
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel.resources
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel1.resources
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_.resources
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_2.resources
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417.resources
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417_2.resources
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.description.resources
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.addmigrationtitle.resources
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.test2.resources
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.csproj.GenerateResource.Cache
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.dll
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.pdb
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.dll.config
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.dll
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.pdb
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\Antlr3.Runtime.dll
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.dll
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.SqlServer.dll
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Web.Infrastructure.dll
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\Newtonsoft.Json.dll
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.dll
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.Mvc.dll
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Helpers.dll
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Mvc.dll
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Optimization.dll
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Razor.dll
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Deployment.dll
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.dll
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Razor.dll
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\WebGrease.dll
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.xml
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.SqlServer.xml
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\Newtonsoft.Json.xml
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.xml
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.Mvc.xml
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Helpers.xml
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Mvc.xml
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Optimization.xml
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Razor.xml
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.xml
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Deployment.xml
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Razor.xml
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\bin\Antlr3.Runtime.pdb
+D:\CS425\EmpyreBookApp-Browse\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate1.resources
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.dll.config
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.dll
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.pdb
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\Antlr3.Runtime.dll
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.dll
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.SqlServer.dll
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Web.Infrastructure.dll
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\Newtonsoft.Json.dll
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.dll
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.Mvc.dll
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Helpers.dll
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Mvc.dll
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Optimization.dll
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Razor.dll
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Deployment.dll
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.dll
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Razor.dll
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\WebGrease.dll
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.xml
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.SqlServer.xml
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\Newtonsoft.Json.xml
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.xml
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.Mvc.xml
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Helpers.xml
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Mvc.xml
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Optimization.xml
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Razor.xml
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.xml
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Deployment.xml
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Razor.xml
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\bin\Antlr3.Runtime.pdb
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate.resources
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.exit.resources
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel.resources
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel1.resources
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_.resources
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_2.resources
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417.resources
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417_2.resources
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.description.resources
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.addmigrationtitle.resources
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.test2.resources
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate1.resources
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.csproj.GenerateResource.Cache
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.dll
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.pdb
+D:\CS425\EmpyreBookApp-Browse&Wen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.csprojResolveAssemblyReference.cache
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.dll.config
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.dll
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.pdb
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\Antlr3.Runtime.dll
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.dll
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.SqlServer.dll
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Web.Infrastructure.dll
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\Newtonsoft.Json.dll
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.dll
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.Mvc.dll
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Helpers.dll
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Mvc.dll
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Optimization.dll
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Razor.dll
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Deployment.dll
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.dll
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Razor.dll
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\WebGrease.dll
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.xml
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.SqlServer.xml
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\Newtonsoft.Json.xml
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.xml
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.Mvc.xml
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Helpers.xml
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Mvc.xml
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Optimization.xml
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Razor.xml
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.xml
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Deployment.xml
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Razor.xml
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\Antlr3.Runtime.pdb
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.csprojResolveAssemblyReference.cache
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate.resources
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.exit.resources
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel.resources
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel1.resources
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_.resources
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_2.resources
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417.resources
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417_2.resources
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.description.resources
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.addmigrationtitle.resources
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.test2.resources
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate1.resources
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.csproj.GenerateResource.Cache
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.dll
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.pdb
+D:\CS425\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.postdate.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.dll.config
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.pdb
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\Antlr3.Runtime.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\Newtonsoft.Json.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.Mvc.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Helpers.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Mvc.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Optimization.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Razor.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\WebGrease.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\Newtonsoft.Json.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.Mvc.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Helpers.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Mvc.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Optimization.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Razor.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\bin\Antlr3.Runtime.pdb
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.csprojResolveAssemblyReference.cache
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.exit.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel1.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_2.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417_2.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.description.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.addmigrationtitle.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.test2.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate1.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.postdate.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.csproj.GenerateResource.Cache
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-BrowseandWen\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.pdb
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.dll.config
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.dll
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.pdb
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\Antlr3.Runtime.dll
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.dll
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.SqlServer.dll
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Web.Infrastructure.dll
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\Newtonsoft.Json.dll
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.dll
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.Mvc.dll
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Helpers.dll
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Mvc.dll
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Optimization.dll
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Razor.dll
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Deployment.dll
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.dll
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Razor.dll
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\WebGrease.dll
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.xml
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.SqlServer.xml
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\Newtonsoft.Json.xml
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.xml
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.Mvc.xml
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Helpers.xml
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Mvc.xml
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Optimization.xml
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Razor.xml
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.xml
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Deployment.xml
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Razor.xml
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\bin\Antlr3.Runtime.pdb
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.csprojResolveAssemblyReference.cache
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate.resources
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.exit.resources
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel.resources
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel1.resources
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_.resources
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_2.resources
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417.resources
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417_2.resources
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.description.resources
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.addmigrationtitle.resources
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.test2.resources
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate1.resources
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.postdate.resources
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.csproj.GenerateResource.Cache
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.dll
+D:\CS425\EmpyreBookApp-Riley update\EmpyreBookApp-Riley update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.pdb
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.dll.config
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.dll
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.pdb
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\Antlr3.Runtime.dll
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.dll
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\Newtonsoft.Json.dll
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.dll
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.Mvc.dll
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Helpers.dll
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Mvc.dll
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Optimization.dll
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Razor.dll
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.dll
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\WebGrease.dll
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.xml
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\Newtonsoft.Json.xml
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.xml
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.Mvc.xml
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Helpers.xml
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Mvc.xml
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Optimization.xml
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Razor.xml
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.xml
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\bin\Antlr3.Runtime.pdb
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate.resources
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.exit.resources
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel.resources
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel1.resources
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_.resources
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_2.resources
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417.resources
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417_2.resources
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.description.resources
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.addmigrationtitle.resources
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.test2.resources
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate1.resources
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.postdate.resources
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.csproj.GenerateResource.Cache
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.dll
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.pdb
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.csprojResolveAssemblyReference.cache
+C:\Users\Riley2\Downloads\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-RileyWen update\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.bookupdate.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.csprojResolveAssemblyReference.cache
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.exit.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel1.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_2.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417_2.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.description.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.addmigrationtitle.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.test2.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate1.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.postdate.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.bookupdate.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.csproj.GenerateResource.Cache
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.pdb
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.dll.config
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.pdb
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\Antlr3.Runtime.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\Newtonsoft.Json.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.Mvc.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Helpers.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Mvc.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Optimization.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Razor.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\WebGrease.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\Newtonsoft.Json.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.Mvc.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Helpers.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Mvc.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Optimization.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Razor.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\Antlr3.Runtime.pdb
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\SimpleCrypto.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations._51214.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Owin.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\Owin.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Owin.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.dll.config
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.dll
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.pdb
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\Antlr3.Runtime.dll
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.dll
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.SqlServer.dll
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Owin.dll
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Owin.Security.dll
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Web.Infrastructure.dll
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\Newtonsoft.Json.dll
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\Owin.dll
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.dll
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.Mvc.dll
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\SimpleCrypto.dll
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Helpers.dll
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Mvc.dll
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Optimization.dll
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Razor.dll
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Deployment.dll
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.dll
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Razor.dll
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\WebGrease.dll
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.xml
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.SqlServer.xml
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Owin.xml
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Owin.Security.xml
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\Newtonsoft.Json.xml
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.xml
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.Mvc.xml
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Helpers.xml
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Mvc.xml
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Optimization.xml
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Razor.xml
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.xml
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Deployment.xml
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Razor.xml
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\Antlr3.Runtime.pdb
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate.resources
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.exit.resources
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel.resources
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel1.resources
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_.resources
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_2.resources
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417.resources
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417_2.resources
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.description.resources
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.addmigrationtitle.resources
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.test2.resources
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate1.resources
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.postdate.resources
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.bookupdate.resources
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations._51214.resources
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.csproj.GenerateResource.Cache
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.dll
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.pdb
+D:\CS425\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.csprojResolveAssemblyReference.cache
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.dll.config
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\EmpyreBookApp.pdb
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\Antlr3.Runtime.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Owin.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\Newtonsoft.Json.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\Owin.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.Mvc.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\SimpleCrypto.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Helpers.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Mvc.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Optimization.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Razor.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\WebGrease.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Owin.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\Newtonsoft.Json.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\PagedList.Mvc.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Helpers.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Mvc.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Optimization.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.Razor.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\bin\Antlr3.Runtime.pdb
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.csprojResolveAssemblyReference.cache
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.exit.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel1.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_2.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417_2.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.description.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.addmigrationtitle.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.test2.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate1.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.postdate.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.bookupdate.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations._51214.resources
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.csproj.GenerateResource.Cache
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.dll
+C:\Users\Tipper\Desktop\EmpyreBookApp-Wen\EmpyreBookApp-RWZM\EmpyreBookApp-Browse\EmpyreBookApp\obj\Debug\EmpyreBookApp.pdb
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.csprojResolveAssemblyReference.cache
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate.resources
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.exit.resources
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel.resources
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel1.resources
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_.resources
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_2.resources
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417.resources
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417_2.resources
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.description.resources
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.addmigrationtitle.resources
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.test2.resources
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate1.resources
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.postdate.resources
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.bookupdate.resources
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations._51214.resources
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.csproj.GenerateResource.Cache
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.dll
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\EmpyreBookApp.dll.config
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\EmpyreBookApp.dll
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\EmpyreBookApp.pdb
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\Antlr3.Runtime.dll
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\EntityFramework.dll
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\Microsoft.Owin.dll
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\Newtonsoft.Json.dll
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\Owin.dll
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\PagedList.dll
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\PagedList.Mvc.dll
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\SimpleCrypto.dll
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.Helpers.dll
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.Mvc.dll
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.Optimization.dll
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.Razor.dll
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.WebPages.dll
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\WebGrease.dll
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\EntityFramework.xml
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\Microsoft.Owin.xml
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\Newtonsoft.Json.xml
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\PagedList.xml
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\PagedList.Mvc.xml
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.Helpers.xml
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.Mvc.xml
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.Optimization.xml
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.Razor.xml
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.WebPages.xml
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\Antlr3.Runtime.pdb
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.pdb
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.communityuser.resources
+C:\Users\Zach\Documents\School\Spring 2014\Archive\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.genreadd.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\EmpyreBookApp.dll.config
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\EmpyreBookApp.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\EmpyreBookApp.pdb
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\Antlr3.Runtime.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\EntityFramework.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\Microsoft.Owin.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\Newtonsoft.Json.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\Owin.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\PagedList.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\PagedList.Mvc.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\SimpleCrypto.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.Helpers.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.Mvc.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.Optimization.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.Razor.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.WebPages.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\WebGrease.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\EntityFramework.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\Microsoft.Owin.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\Newtonsoft.Json.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\PagedList.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\PagedList.Mvc.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.Helpers.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.Mvc.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.Optimization.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.Razor.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.WebPages.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\bin\Antlr3.Runtime.pdb
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.csprojResolveAssemblyReference.cache
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.exit.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel1.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_2.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417_2.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.description.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.addmigrationtitle.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.test2.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate1.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.postdate.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.bookupdate.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations._51214.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.communityuser.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.genreadd.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.csproj.GenerateResource.Cache
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014\EmpyreBookApp\obj\Debug\EmpyreBookApp.pdb
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\EmpyreBookApp.dll.config
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\EmpyreBookApp.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\EmpyreBookApp.pdb
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\Antlr3.Runtime.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\EntityFramework.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\Microsoft.Owin.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\Newtonsoft.Json.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\Owin.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\PagedList.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\PagedList.Mvc.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\SimpleCrypto.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\System.Web.Helpers.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\System.Web.Mvc.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\System.Web.Optimization.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\System.Web.Razor.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\System.Web.WebPages.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\WebGrease.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\EntityFramework.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\Microsoft.Owin.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\Newtonsoft.Json.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\PagedList.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\PagedList.Mvc.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\System.Web.Helpers.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\System.Web.Mvc.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\System.Web.Optimization.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\System.Web.Razor.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\System.Web.WebPages.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\bin\Antlr3.Runtime.pdb
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\obj\Debug\EmpyreBookApp.csprojResolveAssemblyReference.cache
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.exit.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.ComplexDataModel1.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach_2.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.zach417_2.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.description.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.addmigrationtitle.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.test2.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.InitialCreate1.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.postdate.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.bookupdate.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations._51214.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.communityuser.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\obj\Debug\EmpyreBookApp.Migrations.genreadd.resources
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\obj\Debug\EmpyreBookApp.csproj.GenerateResource.Cache
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\obj\Debug\EmpyreBookApp.dll
+C:\Users\Riley2\Desktop\EmpyreBookApp-5-21-2014 riley\EmpyreBookApp\obj\Debug\EmpyreBookApp.pdb

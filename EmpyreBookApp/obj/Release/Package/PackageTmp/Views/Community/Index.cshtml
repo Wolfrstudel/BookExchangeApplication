@@ -1,0 +1,59 @@
+﻿@model IEnumerable<EmpyreBookApp.Models.Community>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CShortName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CUrl)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BackgroundColor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SecondaryBackgroundColor)
+        </th>
+        
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CShortName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CUrl)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BackgroundColor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SecondaryBackgroundColor)
+        </td>
+        
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.CommunityID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.CommunityID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.CommunityID })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,81 @@
+﻿@model EmpyreBookApp.Models.User
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "IndexNew";
+}
+
+<style type='text/css'>
+            html, body {
+                height: 100%;
+                margin: 0;
+            }
+
+            #login {
+                background-color: @Html.Action("GetSecond", "User");
+
+                box-shadow: 5px 5px 5px #651212;
+                text-shadow: 3px 3px 3px black;
+                width: 200px;
+                height: 10%;
+                border-radius: 10px;
+            }
+
+            #holder {
+                width: 200px;
+                height: 100%;
+                float: left;
+                border-radius: 10px;
+                box-shadow: 5px 5px 5px #651212;
+                background-color: @Html.Action("GetSecond", "User");
+            }
+            #entity{
+                margin-left:15px;
+            }
+            #space {
+                height: 15px;
+            }
+
+
+
+</style>
+
+@using (Html.BeginForm())
+{
+
+@Html.ValidationSummary(true, "Login failed. Check your login details.")
+ <div>
+    <fieldset>
+        <div id="login" >
+            <h1 style="color:black;padding-left:15px; padding-top:15px; padding-bottom:15px;">Login:</h1>
+        </div>
+        <div id="space"></div>
+        <div id="holder">
+            <div id="space"></div>
+            <div id="entity">@Html.LabelFor(u => u.Email)</div>
+       
+            <div id="entity">@Html.TextBoxFor(u=> u.Email)
+                @Html.ValidationMessageFor( u => u.Email)
+            </div>
+
+
+            <div id="entity">@Html.LabelFor(u => u.Password)</div>
+
+            <div id="entity">
+                @Html.PasswordFor(u => u.Password)
+                @Html.ValidationMessageFor(u => u.Password)
+            </div>
+            <div id="space"></div>
+            <div id="entity">
+                Register @Html.ActionLink("here", "Registration")
+            </div>
+            <div id="space"></div>
+            <input id="entity" type="submit" value="Log In" />
+            <div id="space"></div>
+            
+        </div>
+        </fieldset>
+
+    </div>
+}

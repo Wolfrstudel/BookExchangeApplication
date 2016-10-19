@@ -1,0 +1,135 @@
+﻿@model EmpyreBookApp.Models.User
+
+
+
+    @{
+        ViewBag.Title = "Details";
+    }
+
+    <br />
+    <table>
+        <tr>
+            <td>
+                <p style="text-align:left;font-family:Broadway;font-size:20px">
+                    Welcome to
+                    @Html.Raw(ViewBag.CurrentCommunity)
+                </p>
+
+            </td>
+            <td style="text-align:right">
+                <img border="0" src="@ViewBag.picUrl" width="150" height="100">
+            </td>
+
+
+        </tr>
+
+
+    </table>
+
+
+    <div>
+        <h4>@Html.ActionLink("Browse For Books", "Browse", "Book")</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.LastName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.LastName)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.FirstName)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.UserName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.UserName)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Email)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Email)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.School)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.School)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Contact)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Contact)
+            </dd>
+
+            <dt>
+
+            </dt>
+            <dd>
+                @Html.ActionLink("Edit", "Edit", new { id = Model.UserID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = Model.UserID }) |
+                @Html.ActionLink("Add", "Add", new { id = Model.UserID })
+            </dd>
+
+            <dt>
+                Posted Books
+            </dt>
+
+
+
+
+            <dd>
+                <table class="table">
+                    <tr>
+                        <th>ISBN</th>
+                        <th>Title</th>
+                        <th>Price</th>
+                        <th>PostTime</th>
+                        <th></th>
+                    </tr>
+                    @foreach (var item in Model.Books)
+                    {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ISBN)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.BI.Title)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Price)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.PostDate)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", "Book", new{ id = item.BookID }, null)
+                        </td>
+                    </tr>
+                    }
+                </table>
+            </dd>
+
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.UserID }) |
+        @Html.ActionLink("Back to List", "Details", new { id = Model.UserID })
+    </p>
